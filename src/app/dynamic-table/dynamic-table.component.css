@@ -1,0 +1,21 @@
+.table-container {
+  margin: auto;
+  max-width: 80vw;
+}
+
+.title {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.input-field {
+  width: 100%;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  color: #00f;
+}
